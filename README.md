@@ -20,3 +20,9 @@ Link: https://www.kaggle.com/datasets/ghopkins/nba-injuries-2010-2018
 Link: https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons_Stats.csv
 
 
+
+BACKGROUND RESEARCH AND INSPIRATION:
+
+1.https://www.scirp.org/journal/paperinformation.aspx?paperid=104074
+2.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3445097/
+
