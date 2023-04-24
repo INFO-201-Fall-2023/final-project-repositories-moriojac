@@ -16,8 +16,11 @@ Link: https://www.kaggle.com/datasets/ghopkins/nba-injuries-2010-2018
 - This data was collected by the Pro Sports Transactions website (prosportstransactions.com). This data is a record/log of all the NBA injuries from 2010-2020.
 - The singificant and important infromation that is in this dataset is the name of the player, the date of the injury, and the type of the injury.
 - There are 5 columns and 27015 rows
-2. NBA Players stats since 1950 (only data taken between 2010-2020 is used)
+2. NBA Players stats since 1950
 Link: https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons_Stats.csv
+- This data was collected by the Basketball-reference website (basketball-reference.com). This link includes data of all the stats of NBA players since 1950. It includes 3 files but we will only be using the one names "Season_Stats.csv" since that is the dataset that correlates to the first dataset.
+- The significant and important information that is in this dataset is the nmae of the player, the age of the player, the height of the player, the age of the player, and all the performance stats of each player.
+- There are 53 columns and 24691 rows
 
 
 
@@ -27,12 +30,3 @@ BACKGROUND RESEARCH AND INSPIRATION:
 
 2.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3445097/
 
-3. https://journals.sagepub.com/doi/full/10.1177/23259671221121116
-- two bullet point items comparing and contrasting your project idea with the given inspiration. 
-- two bullet point items comparing and contrasting your project idea with the given inspiration. 
-
-5. https://med.stanford.edu/news/all-news/2021/11/acl-tears-basketball.html
-- two bullet point items comparing and contrasting your project idea with the given inspiration. 
-- two bullet point items comparing and contrasting your project idea with the given inspiration. 
-
-6. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263354
