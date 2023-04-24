@@ -16,6 +16,7 @@ Link: https://www.kaggle.com/datasets/ghopkins/nba-injuries-2010-2018
 - This data was collected by the Pro Sports Transactions website (prosportstransactions.com). This data is a record/log of all the NBA injuries from 2010-2020.
 - The singificant and important infromation that is in this dataset is the name of the player, the date of the injury, and the type of the injury.
 - There are 5 columns and 27015 rows
+
 2. NBA Players stats since 1950
 Link: https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons_Stats.csv
 - This data was collected by the Basketball-reference website (basketball-reference.com). This link includes data of all the stats of NBA players since 1950. It includes 3 files but we will only be using the one names "Season_Stats.csv" since that is the dataset that correlates to the first dataset.
@@ -25,8 +26,30 @@ Link: https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons
 
 
 BACKGROUND RESEARCH AND INSPIRATION:
-
 1.https://www.scirp.org/journal/paperinformation.aspx?paperid=104074
+- Both projects focus on finding any factors that correlate with injury proneness and vulnerability among players in the NBA.
+- The difference between these projects is that our project tries to find a correlation with player performance AND player demographics. While the other project only tries to find a correlation with just player performance.
+- We will use data analysis to find any correlation between the two datasets while the other project used machine learning.
 
-2.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3445097/
+2.https://www.newswise.com/articles/study-of-elite-nba-players-re-affirms-positive-impact-of-playing-multiple-youth-sports
+- The project idea focuses on identifying factors that correlate to injury proneness in NBA players, while the research study focuses on the positive impact of playing multiple youth sports on elite NBA players.
+- The project idea aims to prevent injuries in the NBA, while the research study aims to understand the benefits of playing multiple sports for elite NBA players.
+- The project idea is focused on injury prevention and understanding the factors that make NBA players prone to injury, while the research study is focused on the benefits of playing multiple sports for NBA players.
+- The project idea is looking at a specific aspect of NBA players (injury proneness), while the research study is examining a broader topic (the impact of playing multiple sports on NBA players).
+
+3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3445097/
+- Both projects are focused on exploring factors that are linked to injuries in the NBA.
+- The project idea mentioned covers a wider range of factors that could potentially lead to injuries, such as player attributes and performance stats, whereas the research study seems to focus solely on playing style.
+
+4. https://med.stanford.edu/news/all-news/2021/11/acl-tears-basketball.html
+- Both projects aim to understand injury patterns and factors in the NBA.
+- Both projects use data analysis as a method to reach their goals.
+- The first project is focused on identifying factors that correlate to injury proneness in the NBA, while the second project is a retrospective review of injuries and medical conditions in elite NBA athletes over a 17-year period.
+- The first project is prospective in nature, while the second project is retrospective.
+
+5. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263354 
+- Both projects are focused on analyzing the injury trends of NBA players, and how to prevent them in the future.
+- The first project aims to identify factors that correlate with injury proneness, whereas the second project analyzes injury trends over a specific time period.
+- The first project seems to have a broader scope, as it suggests exploring various categories of players to identify factors correlated with injuries. In contrast, the second project has a more specific focus on injury epidemiology in the NBA.
+- The second project appears to be more recent, covering the pre- and per-COVID-19 period of 2017-2021. The first project doesn't mention any specific time period or mention COVID-19.
 
