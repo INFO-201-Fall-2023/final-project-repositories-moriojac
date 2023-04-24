@@ -28,7 +28,11 @@ BACKGROUND RESEARCH AND INSPIRATION:
 2.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3445097/
 
 3. https://journals.sagepub.com/doi/full/10.1177/23259671221121116
+- two bullet point items comparing and contrasting your project idea with the given inspiration. 
+- two bullet point items comparing and contrasting your project idea with the given inspiration. 
 
 5. https://med.stanford.edu/news/all-news/2021/11/acl-tears-basketball.html
+- two bullet point items comparing and contrasting your project idea with the given inspiration. 
+- two bullet point items comparing and contrasting your project idea with the given inspiration. 
 
 6. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263354
