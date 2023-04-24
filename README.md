@@ -21,7 +21,7 @@ Link: https://www.kaggle.com/datasets/ghopkins/nba-injuries-2010-2018
 2. NBA Players stats since 1950
 Link: https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons_Stats.csv
 - This data was collected by the Basketball-reference website (basketball-reference.com). This link includes data of all the stats of NBA players since 1950. It includes 3 files but we will only be using the one names "Season_Stats.csv" since that is the dataset that correlates to the first dataset.
-- The significant and important information that is in this dataset is the nmae of the player, the age of the player, the height of the player, the age of the player, and all the performance stats of each player.
+- The significant and important information that is in this dataset is the name of the player, the age of the player, the height of the player, and all the performance stats of each player.
 - There are 53 columns and 24691 rows
 
 
