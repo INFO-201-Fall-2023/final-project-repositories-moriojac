@@ -16,7 +16,7 @@ Link: https://www.kaggle.com/datasets/ghopkins/nba-injuries-2010-2018
 - This data was collected by the Pro Sports Transactions website (prosportstransactions.com). This data is a record/log of all the NBA injuries from 2010-2020.
 - The singificant and important infromation that is in this dataset is the name of the player, the date of the injury, and the type of the injury.
 - There are 5 columns and 27015 rows
-2. NBA Players stats since 1950
+2. NBA Players stats since 1950 (only data taken between 2010-2020 is used)
 Link: https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons_Stats.csv
 
 
