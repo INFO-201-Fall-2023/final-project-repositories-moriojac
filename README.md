@@ -31,3 +31,4 @@ BACKGROUND RESEARCH AND INSPIRATION:
 
 5. https://med.stanford.edu/news/all-news/2021/11/acl-tears-basketball.html
 
+6. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263354
