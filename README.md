@@ -26,6 +26,7 @@ Link: https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons
 
 
 BACKGROUND RESEARCH AND INSPIRATION:
+
 1.https://www.scirp.org/journal/paperinformation.aspx?paperid=104074
 - Both projects focus on finding any factors that correlate with injury proneness and vulnerability among players in the NBA.
 - The difference between these projects is that our project tries to find a correlation with player performance AND player demographics. While the other project only tries to find a correlation with just player performance.
